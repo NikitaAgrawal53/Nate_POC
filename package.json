@@ -1,0 +1,26 @@
+{
+  "name": "nate_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nate-assessment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install && node nate-assessment.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaAgrawal53/Nate_POC.git"
+  },
+  "author": "Nikita Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaAgrawal53/Nate_POC/issues"
+  },
+  "homepage": "https://github.com/NikitaAgrawal53/Nate_POC#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "wordcounter": "^0.1.1"
+  }
+}
