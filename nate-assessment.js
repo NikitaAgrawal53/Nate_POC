@@ -8,7 +8,7 @@ var wordcounter = new WordCounter({
     mincount: 1,
     minlength: 1,
     ignore: [],
-    ignorecase: false
+    ignorecase: true
   });
 var app = express();
 
